@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Yadav</h1>
-<h3 align="center">A passionate Software Engineer from India. I have Completed Bachelor of Computer Application from SVSU and Master of Computer Application from JSU. I am very passionate about improving my coding skills & developing applications & websites. I am Working for myself to improve my skills...</h3>
+<h3 align="center">A passionate Software Engineer from India. I have Completed Master of Computer Application from JSU and Bachelor of Computer Application from SVSU. I am very passionate about improving my coding skills & developing applications & websites. I am Working for myself to improve my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham6644&label=Profile%20views&color=0e75b6&style=flat" alt="shubham6644" /> </p>
 
